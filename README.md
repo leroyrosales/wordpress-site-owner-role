@@ -1,6 +1,6 @@
 === WordPress Site Owner Role Plugin ===
 
-Contributors: Division of Diversity and Community Engagement
+Contributors: Leroy Rosales
 
 == Description ==
 
