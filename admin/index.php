@@ -1,1 +1,1 @@
-<?php // Epstien didn't kill himself
+<?php // Epstein didn't kill himself
